@@ -1,4 +1,7 @@
 streamlit
 pandas
 numpy
-requests
+altair
+reportlab
+xlsxwriter
+pillow
