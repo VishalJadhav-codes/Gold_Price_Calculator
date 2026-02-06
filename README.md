@@ -15,7 +15,7 @@ This tool helps users and jewellery shops calculate final gold rates including:
 ---
 
 ## 🚀 Live Demo (Deployed App)
-(*Add your Streamlit Cloud link here after deploying*)
+https://goldpricecalculator-vishaljadhav.streamlit.app/
 
 ---
 
