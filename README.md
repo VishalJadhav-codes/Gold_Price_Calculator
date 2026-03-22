@@ -85,3 +85,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the app
 streamlit run app.py
 cd Gold_Price_Calculator
+
+## 📬 Connect With Me
+- 📧 Email: vishaljadhav12119036@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/vishaljadhav01
