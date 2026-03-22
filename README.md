@@ -77,4 +77,10 @@ Examples:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/VishalJadhav-codes/Gold_Price_Calculator.git
+
+### 2️⃣ Install dependencies
+pip install -r requirements.txt
+
+### 3️⃣ Run the app
+streamlit run app.py
 cd Gold_Price_Calculator
