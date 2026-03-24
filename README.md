@@ -101,8 +101,7 @@ git clone https://github.com/VishalJadhav-codes/Gold_Price_Calculator.git
 pip install -r requirements.txt
 
 ### 3️⃣ Run the app
-streamlit run app.py
-cd Gold_Price_Calculator
+https://goldpricecalculator-vishaljadhav.streamlit.app/
 
 ## 📬 Connect With Me
 - 📧 Email: vishaljadhav12119036@gmail.com  
