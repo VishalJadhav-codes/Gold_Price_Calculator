@@ -52,13 +52,31 @@ Key functionalities:
 
 ## 📷 Screenshots
 
-> Add screenshots soon
+### 🧮 Gold Price Calculator Interface
+![Calculator UI](assets/home1.png)
+![Calculator UI 2](assets/home2.png)
 
-Examples:
-- Calculator interface  
-- Price breakdown output  
-- Shop mode dashboard  
-- Charts
+- Supports carat-based pricing (24K, 22K, etc.)
+- Handles making charges, wastage, and GST
+- Dynamic price calculation based on inputs
+
+---
+
+### 🏪 Shop Dashboard & Transaction Management
+![Shop Dashboard](assets/dashboard.png)
+
+- Generates unique bill numbers
+- Stores transaction records
+- Export transactions as CSV
+
+---
+
+### 💰 Price Breakdown Output
+![Result](assets/invoice.png)
+
+- Detailed cost breakdown
+- Transparent pricing logic
+- Real-time calculation updates
 
 ---
 
